@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBiodataApps</string>
+    <string name="hintName">Name</string>
+    <string name="hintAge">Age</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPhone">Phone</string>
+    <string name="hintPlace">Place</string>
+    <string name="btnSubmit">submit</string>
+</resources>
